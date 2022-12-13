@@ -1,0 +1,33 @@
+1_Data types.py
+10_Copy File Content to another.py
+11_character frequency.py
+12_reverse line.py
+13_character word line.py
+14_list functions.py
+15_tuple functions.py
+16_set_operations.py
+18_regex1.py
+19_mobile_no_regex.py
+2_Operators.py
+20_perfect_no.py
+21_toh.py
+22_addition_of_list.py
+23_employee.py
+24_exception.py
+25_txt_files.py
+26_mysql.py
+27_socket-client.py
+27_socket-server.py
+28_tkinter_gui.py
+29_panda.py
+3_Conditional statements.py
+30_mpl.py
+4_Iterative statements.py
+5_Control Transfer Statements.py
+6_Alphabet Pyramid.py
+7_Number Half Diamond.py
+8_Alphabet diamond.py
+9_Read and write.py
+fifa_world_cup_2022_tweets.csv
+FolderList.txt
+textfile.txt
